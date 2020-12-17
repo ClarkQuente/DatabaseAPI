@@ -1,0 +1,8 @@
+Storage:
+  TYPE: true # true para MySQL e false para SQLite
+  # Apenas preencha as informações abaixo caso for utilizar MYSQL
+  Host: 'localhost'
+  Port: 3306
+  Username: 'root'
+  Password: 'vertrigo'
+  Database: 'storage'
