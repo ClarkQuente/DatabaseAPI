@@ -44,7 +44,7 @@ O último passo é fechar a conexão com o desligamento do plugin.
 Em seu onDisable(), adicione:
 
 ```yaml
-getConnectionManager().close();
+ConnectionManager.close();
 ```
 
 <img src="https://imgur.com/3c7Bcjo.png">
