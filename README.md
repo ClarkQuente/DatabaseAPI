@@ -47,8 +47,6 @@ Em seu onDisable(), adicione:
 ConnectionManager.close();
 ```
 
-<img src="https://imgur.com/3c7Bcjo.png">
-
 ## Extras
 
 <h3> • Criação de Tabelas </h3>
